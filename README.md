@@ -1,0 +1,1 @@
+Just a class to create some lorem ipsum.
